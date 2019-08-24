@@ -1,0 +1,16 @@
+{
+  "name": "selfbot",
+  "version": "1.0.0",
+  "description": "Selfbot by AKX",
+  "main": "selfbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AKX",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "superagent": "^5.1.0"
+  }
+}
