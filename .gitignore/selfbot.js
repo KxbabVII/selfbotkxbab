@@ -737,4 +737,4 @@ if(command === `${prefix}clear`) {
 
 
 
-bot.login(config.token);
+bot.login(process.env.TOKEN);
